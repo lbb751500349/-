@@ -1,0 +1,44 @@
+<!--告诉浏览器超文本是HTML5版本-->
+<!DOCTYPE html>
+<!--浏览器默认会提示是否翻译此页-->
+<html lang='en'>
+	<head>
+		<!--重写lang='en'设置编码，可以输出中文-->
+		<meta charset="utf-8">
+		<title>Test</title>
+	</head>
+	<body>
+	<ol type="1">
+		<li>First Blood</li>
+		<li>Second Blood</li>
+		<li>Third Blood</li>
+	</ol>
+	<br>
+	<ul type="circle">
+		<li>有序标签空心圆1</li>
+		<li>有序标签空心圆2</li>
+		<li>有序标签空心圆3</li>
+	</ul>
+	<br>
+	<ul type="square">
+		<li>有序标签空心圆1</li>
+		<li>有序标签空心圆2</li>
+		<li>有序标签空心圆3</li>
+	</ul>
+	<hr>
+	<img src="D:\favicon.ico" title='111'>
+	<img src="" alt='图片加载失败时显示'>
+	<hr>
+	<a href="https://www.baidu.com/" target="_blank">新建页面打开</a>
+	<a href="https://www.baidu.com/" >当前页打开</a>
+	<hr>
+	10<sup>2</sup>
+	<br>
+	<del title='删除中划线标识删除中划线标识'>删除中划线标识</del>
+	<br>
+	<u>删除下划线标识</u>
+	<br>
+	<center>文字居中</center>
+	
+	</body>
+</html>
