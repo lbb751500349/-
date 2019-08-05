@@ -1,4 +1,9 @@
 <!DOCTYPE=html>
+<!--遗忘知识点：
+1.跨行rowspan跨几行其它行<tr>标签中就要删除相应的<td>标签数
+夸列：其它行不需要管，只需当前行删除相应的<td>数量
+2.<br>换行标签
+-->
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
