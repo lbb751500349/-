@@ -1,0 +1,17 @@
+<!DOCTYPE="html">
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Test</title>
+		<style type="text/css">
+			body{
+			background-image: url(./img/1.png);
+			background-repeat: no-repeat;
+			background-position:center center;
+			}
+		</style>
+	</head>
+	<body>
+	
+	</body>
+</html>
