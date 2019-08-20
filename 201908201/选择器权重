@@ -1,0 +1,29 @@
+<!DOCTYPE=html>
+<!--
+css权重：
+行内样式表>#(id)>.(class)>标签>大于*(通配符)>
+-->
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>CSS</title>
+		<style type="text/css">
+		body
+		#test {
+		text-align:center;
+		}
+		.item {
+		text-decoration:none;
+		border-right: dashed 1px;
+		padding:0 15px;
+		}
+		</style>
+	</head>
+	<body>
+		<div id="test">
+		<a href="http://www.baidu.com" class='item'>首页</a>
+		<a class='item'>办公居家</a>
+		<a class='item' style="border-right:none;">数码科技</a>
+		</div>
+	</body>
+</html>
